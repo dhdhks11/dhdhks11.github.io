@@ -1,6 +1,6 @@
 {
-    "name": "flutter_store",
-    "short_name": "flutter_store",
+    "name": "flutter_recipe",
+    "short_name": "flutter_recipe",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
