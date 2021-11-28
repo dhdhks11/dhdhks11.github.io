@@ -3,26 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8908ab68ab345718267adefd9fab9e9d",
-"assets/assets/avatar.png": "28674b3ec8aa1a32aa098ba1ce19a65a",
+  "assets/AssetManifest.json": "46543d81cf88aaa50a4f9b12cb40cc02",
+"assets/assets/logo.svg": "a8ce418b08adfcd1a43916f0ead903c1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "1cfc979012f9e1e6b80f0a677e9bdefd",
+"assets/NOTICES": "49af96ffa0f1e343ce733bf96581e91a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
-"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
-"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
-"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b670e57821d3152bcd625a6faa1b6059",
-"/": "b670e57821d3152bcd625a6faa1b6059",
-"main.dart.js": "0fe286fe3439f7e91d695602364c6419",
-"manifest.json": "72e62707a80158b174f0e44acd09268e",
-"version.json": "1ac57eb0214a8f5216f1da7dd479b33f"
+"index.html": "47b4572b6f6cca4fcd635f2c2c1833f2",
+"/": "47b4572b6f6cca4fcd635f2c2c1833f2",
+"main.dart.js": "1e09cdbcb4dbb01a1472da29562a7676",
+"manifest.json": "14f9d7451cbff1dc32cc4910819a634a",
+"version.json": "270197645f669157d3cc6f6c485fa92a"
 };
 
 // The application shell files that are downloaded before a service worker can
