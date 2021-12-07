@@ -41330,7 +41330,7 @@ r=A.bW("Wan Oh",n,n,n,n,$.Dd(),n,n,n)
 q=A.bH(n,20,n)
 p=$.oM()
 o=t.p
-return A.ik(A.a([m,new A.e6(new A.aV(20,0,20,0),new A.LA(A.a([l,k,A.ik(A.a([s,r,q,A.bW("Ph.D Student",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Department of Computer Engineering",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Changwon National University",n,n,n,n,p,n,n,n),A.bH(n,20,n),A.bW("Senior Engineer",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Ship & Offshore Research Institute",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Samsung Heavy Industries Co.,Ltd",n,n,n,n,p,n,n,n),A.bH(n,20,n)],o),B.c3,B.aX,B.aM)],o),n),n),A.bH(n,20,n)],o),B.c3,B.aX,B.aM)}}
+return A.ik(A.a([m,new A.e6(new A.aV(20,0,20,0),new A.LA(A.a([l,k,A.ik(A.a([s,r,q,A.bW("Ph.D. Student",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Department of Computer Engineering",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Changwon National University",n,n,n,n,p,n,n,n),A.bH(n,20,n),A.bW("Senior Engineer",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Ship & Offshore Research Institute",n,n,n,n,p,n,n,n),A.bH(n,5,n),A.bW("Samsung Heavy Industries Co.,Ltd",n,n,n,n,p,n,n,n),A.bH(n,20,n)],o),B.c3,B.aX,B.aM)],o),n),n),A.bH(n,20,n)],o),B.c3,B.aX,B.aM)}}
 A.a3c.prototype={}
 A.hd.prototype={
 ga8e(){return this.a},
@@ -41343,7 +41343,7 @@ W(a,b){var s=null
 return new A.e6(new A.aV(20,0,20,0),A.ik(A.a([A.bH(s,20,s),A.bW("Publications (Selected)",s,s,s,s,$.Dd(),s,s,s),A.bH(s,10,s),A.bW("None",s,s,s,s,$.oM(),s,s,s),A.bH(s,20,s)],t.p),B.c3,B.aX,B.aM),s)}}
 A.K2.prototype={
 W(a,b){var s=null,r=A.bH(s,20,s),q=A.bW("Self-Introduction",s,s,s,s,$.Dd(),s,s,s),p=A.bH(s,10,s),o=$.oM()
-return new A.e6(new A.aV(20,0,20,0),A.ik(A.a([r,q,p,A.bW("I am a Ph.D Student at the Department of Computer Engineering, Changwon National University.",s,s,s,s,o,s,s,s),A.bW("My interests in computer engineering are operating system, programming language, software engineering and reverse engineering.",s,s,s,s,o,s,s,s),A.bH(s,10,s),A.bW("I was an application consultant at AVEVA Korea Ltd from 2010 to 2015 and participated in several development projects, including AVEVA Everything 3D 2.1. in Chesterfield and Hyderabad.",s,s,s,s,o,s,s,s),A.bH(s,5,s),A.bW("Currently I am a senior engineer at Ship & Offshore Research Institute in Geoje shipyard of Samsung Heavy Industries Co.,Ltd and in charge of in-house software development for improvement of construction productivity. Also previous job was planning of IM system and IT infrastructure for offshore project as IM/IT manager.",s,s,s,s,o,s,s,s),A.bH(s,20,s)],t.p),B.c3,B.aX,B.aM),s)}}
+return new A.e6(new A.aV(20,0,20,0),A.ik(A.a([r,q,p,A.bW("I am a Ph.D. Student at the Department of Computer Engineering, Changwon National University.",s,s,s,s,o,s,s,s),A.bW("My interests in computer engineering are operating system, programming language, software engineering and reverse engineering.",s,s,s,s,o,s,s,s),A.bH(s,10,s),A.bW("I was an application consultant at AVEVA Korea Ltd from 2010 to 2015 and participated in several development projects, including AVEVA Everything 3D 2.1. in Chesterfield and Hyderabad.",s,s,s,s,o,s,s,s),A.bH(s,5,s),A.bW("Currently I am a senior engineer at Ship & Offshore Research Institute in Geoje shipyard of Samsung Heavy Industries Co.,Ltd and in charge of in-house software development for improvement of construction productivity. Also previous job was planning of IM system and IT infrastructure for offshore project as IM/IT manager.",s,s,s,s,o,s,s,s),A.bH(s,20,s)],t.p),B.c3,B.aX,B.aM),s)}}
 A.w1.prototype={
 aW(){return new A.AA(B.q)}}
 A.AA.prototype={
